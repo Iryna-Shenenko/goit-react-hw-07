@@ -1,0 +1,27 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 15px;
+    background-color: #D0F3EF;
+    width: 500px;
+}
+
+.name {
+    margin-bottom: 15px;
+}
+
+.number {
+    margin-bottom: 10px;
+}
+
+.btn {
+    width: 150px;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #16F0DB;
+
+}

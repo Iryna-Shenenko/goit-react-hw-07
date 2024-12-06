@@ -1,0 +1,38 @@
+.btn {
+    border: 1px solid #0A3821;
+    align-items: center;
+    border-radius: 3px;
+    height: fit-content;
+    background-color: #16F0DB;
+
+
+}
+
+.text {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-weight: bold;
+}
+
+.div {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width: 100%;
+ 
+
+
+}
+
+.container {
+    border: 1px solid #0A3821;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    width: 100%;
+    background-color: #C5F7F2;
+}

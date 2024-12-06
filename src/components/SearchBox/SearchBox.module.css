@@ -1,0 +1,21 @@
+.div {
+    margin-bottom: 15px;
+    margin-left: 10px;
+
+}
+
+.input {
+    display: flex;
+    align-items: center;
+    width: 500px;
+    border: 1px solid #0A3821;
+    border-radius: 5px;
+
+   
+}
+
+.text {
+display: flex;
+flex-direction:row;
+    color: #187269;
+}
